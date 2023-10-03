@@ -8,6 +8,6 @@
   "cleanup": true,
   "theme": "cards",
   "css": "./custom.css",
-  "footer": "Presented by The Gnostic Method - https://thegnosticmethod.beezer.com/",
+  "footer": "Presented by The Gnostic Method - " { "url": "https://thegnosticmethod.beezer.com/>" },
   "usage-stats": false
 }
